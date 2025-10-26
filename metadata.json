@@ -1,0 +1,7 @@
+{
+  "name": "AI Tree Identifier",
+  "description": "An AI-powered application that identifies trees from user-uploaded photos. Simply upload a picture of a tree, and the app will provide its common name, scientific name, and a brief description.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
